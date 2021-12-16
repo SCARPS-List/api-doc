@@ -29,4 +29,6 @@ fetch('https://botlist.scarps.club/api/auth/liked/:botid', { headers: { 'Authori
   return console.log(data);
 }).catch(console.error);
 ```
+**Docs:** https://docs.scarps.club/
+**List:** https://botlist.scarps.club
 # Need help Join our **Discord** : https://discord.gg/XQhdYjzTrT 
