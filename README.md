@@ -30,5 +30,6 @@ fetch('https://botlist.scarps.club/api/auth/liked/:botid', { headers: { 'Authori
 }).catch(console.error);
 ```
 **Docs:** https://docs.scarps.club/
+
 **List:** https://botlist.scarps.club
 # Need help Join our **Discord** : https://discord.gg/XQhdYjzTrT 
